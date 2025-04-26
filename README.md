@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+ HEAD
+HEAD
 #Codeveda Full-Stack Development 
 #Task Objective
 Set up your full-stack development environment with
@@ -13,11 +13,11 @@ Visual Studio code
 Git
 Github repository
 
-=======
+
 # codeveda-task1
 Setup development environment for Codveda internship
 >>>>>>> 07255cf (Initial commit)
-=======
+
 # codveda-task1
 Setup development environment for Codveda internship
 
@@ -26,4 +26,14 @@ Setup development environment for Codveda internship
 - Learned basic terminal commands
 - Setup GitHub repository and basic Git commands
 - MongoDB Installation: Skipped due to limited storage space. Will use online compilers for practice.
->>>>>>> 0d22f24 (Update README.md with detailed setup steps)
+ HEAD
+ 0d22f24 (Update README.md with detailed setup steps)
+
+
+# Built a simple REST API
+- Developed a simple REST API using Node.js and Express
+- Implemented basic CRUD operations (Create, Read, Update, Delete)
+- Tested API endpoints using Thunder Client
+- Handled error responses and HTTP status codes
+
+ a9c70ec (Update README.md)
