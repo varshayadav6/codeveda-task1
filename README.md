@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Codeveda Full-Stack Development 
 #Task Objective
 Set up your full-stack development environment with
@@ -11,3 +12,7 @@ Visual Studio code
 Git
 Github repository
 
+=======
+# codeveda-task1
+Setup development environment for Codveda internship
+>>>>>>> 07255cf (Initial commit)
